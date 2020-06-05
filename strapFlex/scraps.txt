@@ -1,0 +1,20 @@
+    <div class="container">
+        <div class="jumbotron">
+            <h1 class="display-1">FlexBox Integration</h1>
+            <h3>docs to utilities to flex</h3>
+        </div>
+        <div class="border border-dark height d-flex flex-column justify-content-around align-items-center">
+            <button class="btn-info btn-lg">LARGE</button>
+            <button class="btn-warning">SMALL</button>
+            <button class="btn-danger">SMALL</button>
+        </div>
+        <hr> <br>
+        <div class="border border-dark height d-flex flex-row justify-content-start align-items-start">
+            <button class="btn-info btn-lg">LARGE</button>
+            <button class="btn-warning">SMALL</button>
+            <button class="btn-danger">SMALL</button>
+        </div>
+        <hr> <br>
+        <h1 class="display-3">responsive flex!!</h1> 
+      
+    </div> 
