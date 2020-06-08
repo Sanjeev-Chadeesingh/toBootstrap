@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(65, 122, 65);
+    font-family: sans-serif;
+}
+
+#mainNavbar .navbar-brand {
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: rgb(65, 122, 65);
+}
+
+.color-white {
+    color: white;
+}
+
+.heading-group h2 {
+    font-size: 3rem;
+}
+
+@media only screen and (max-width: 1100px) {
+    .heading-group h2 {
+        font-size: 2.5rem;
+    }
+}
